@@ -1,0 +1,41 @@
+C:\Users\Tony LI\Documents\Visual Studio 2017\Projects\Demo\StuDataManagementSystem\bin\Debug\StuDataManagementSystem.exe.config
+C:\Users\Tony LI\Documents\Visual Studio 2017\Projects\Demo\StuDataManagementSystem\bin\Debug\StuDataManagementSystem.exe
+C:\Users\Tony LI\Documents\Visual Studio 2017\Projects\Demo\StuDataManagementSystem\bin\Debug\StuDataManagementSystem.pdb
+C:\Users\Tony LI\Documents\Visual Studio 2017\Projects\Demo\StuDataManagementSystem\obj\Debug\StuDataManagementSystem.csprojAssemblyReference.cache
+C:\Users\Tony LI\Documents\Visual Studio 2017\Projects\Demo\StuDataManagementSystem\obj\Debug\StuDataManagementSystem.MainForm.resources
+C:\Users\Tony LI\Documents\Visual Studio 2017\Projects\Demo\StuDataManagementSystem\obj\Debug\StuDataManagementSystem.Properties.Resources.resources
+C:\Users\Tony LI\Documents\Visual Studio 2017\Projects\Demo\StuDataManagementSystem\obj\Debug\StuDataManagementSystem.csproj.GenerateResource.cache
+C:\Users\Tony LI\Documents\Visual Studio 2017\Projects\Demo\StuDataManagementSystem\obj\Debug\StuDataManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tony LI\Documents\Visual Studio 2017\Projects\Demo\StuDataManagementSystem\obj\Debug\StuDataManagementSystem.exe
+C:\Users\Tony LI\Documents\Visual Studio 2017\Projects\Demo\StuDataManagementSystem\obj\Debug\StuDataManagementSystem.pdb
+C:\Users\Tony LI\Documents\Visual Studio 2017\Projects\Demo\StuDataManagementSystem\obj\Debug\StuDataManagementSystem.StuInfoEditorForm.resources
+C:\Users\Tony LI\Documents\StuDataManagementSystem\bin\Debug\StuDataManagementSystem.exe.config
+C:\Users\Tony LI\Documents\StuDataManagementSystem\bin\Debug\StuDataManagementSystem.exe
+C:\Users\Tony LI\Documents\StuDataManagementSystem\bin\Debug\StuDataManagementSystem.pdb
+C:\Users\Tony LI\Documents\StuDataManagementSystem\bin\Debug\SubLib.dll
+C:\Users\Tony LI\Documents\StuDataManagementSystem\bin\Debug\SubLib.pdb
+C:\Users\Tony LI\Documents\StuDataManagementSystem\obj\Debug\StuDataManagementSystem.csprojAssemblyReference.cache
+C:\Users\Tony LI\Documents\StuDataManagementSystem\obj\Debug\StuDataManagementSystem.MainForm.resources
+C:\Users\Tony LI\Documents\StuDataManagementSystem\obj\Debug\StuDataManagementSystem.Properties.Resources.resources
+C:\Users\Tony LI\Documents\StuDataManagementSystem\obj\Debug\StuDataManagementSystem.StuInfoEditorForm.resources
+C:\Users\Tony LI\Documents\StuDataManagementSystem\obj\Debug\StuDataManagementSystem.csproj.GenerateResource.cache
+C:\Users\Tony LI\Documents\StuDataManagementSystem\obj\Debug\StuDataManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tony LI\Documents\StuDataManagementSystem\obj\Debug\StuDataManagementSystem.csproj.CopyComplete
+C:\Users\Tony LI\Documents\StuDataManagementSystem\obj\Debug\StuDataManagementSystem.exe
+C:\Users\Tony LI\Documents\StuDataManagementSystem\obj\Debug\StuDataManagementSystem.pdb
+C:\Users\Tony LI\Documents\StuDataManagementSystem\bin\Debug\SubLib.dll.config
+C:\Users\Tony LI\Source\Repos\tonyDemo\StudentDataManagementSystem\StuDataManagementSystem\bin\Debug\StuDataManagementSystem.exe.config
+C:\Users\Tony LI\Source\Repos\tonyDemo\StudentDataManagementSystem\StuDataManagementSystem\bin\Debug\StuDataManagementSystem.exe
+C:\Users\Tony LI\Source\Repos\tonyDemo\StudentDataManagementSystem\StuDataManagementSystem\bin\Debug\StuDataManagementSystem.pdb
+C:\Users\Tony LI\Source\Repos\tonyDemo\StudentDataManagementSystem\StuDataManagementSystem\bin\Debug\SubLib.dll
+C:\Users\Tony LI\Source\Repos\tonyDemo\StudentDataManagementSystem\StuDataManagementSystem\bin\Debug\SubLib.pdb
+C:\Users\Tony LI\Source\Repos\tonyDemo\StudentDataManagementSystem\StuDataManagementSystem\bin\Debug\SubLib.dll.config
+C:\Users\Tony LI\Source\Repos\tonyDemo\StudentDataManagementSystem\StuDataManagementSystem\obj\Debug\StuDataManagementSystem.csprojAssemblyReference.cache
+C:\Users\Tony LI\Source\Repos\tonyDemo\StudentDataManagementSystem\StuDataManagementSystem\obj\Debug\StuDataManagementSystem.MainForm.resources
+C:\Users\Tony LI\Source\Repos\tonyDemo\StudentDataManagementSystem\StuDataManagementSystem\obj\Debug\StuDataManagementSystem.Properties.Resources.resources
+C:\Users\Tony LI\Source\Repos\tonyDemo\StudentDataManagementSystem\StuDataManagementSystem\obj\Debug\StuDataManagementSystem.StuInfoEditorForm.resources
+C:\Users\Tony LI\Source\Repos\tonyDemo\StudentDataManagementSystem\StuDataManagementSystem\obj\Debug\StuDataManagementSystem.csproj.GenerateResource.cache
+C:\Users\Tony LI\Source\Repos\tonyDemo\StudentDataManagementSystem\StuDataManagementSystem\obj\Debug\StuDataManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tony LI\Source\Repos\tonyDemo\StudentDataManagementSystem\StuDataManagementSystem\obj\Debug\StuDataManagementSystem.csproj.CopyComplete
+C:\Users\Tony LI\Source\Repos\tonyDemo\StudentDataManagementSystem\StuDataManagementSystem\obj\Debug\StuDataManagementSystem.exe
+C:\Users\Tony LI\Source\Repos\tonyDemo\StudentDataManagementSystem\StuDataManagementSystem\obj\Debug\StuDataManagementSystem.pdb
