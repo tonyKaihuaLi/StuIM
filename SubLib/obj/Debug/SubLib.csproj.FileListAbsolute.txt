@@ -1,0 +1,7 @@
+C:\Users\Tony LI\Source\Repos\tonyDemo\StudentDataManagementSystem\SubLib\bin\Debug\SubLib.dll
+C:\Users\Tony LI\Source\Repos\tonyDemo\StudentDataManagementSystem\SubLib\bin\Debug\SubLib.pdb
+C:\Users\Tony LI\Source\Repos\tonyDemo\StudentDataManagementSystem\SubLib\obj\Debug\SubLib.csprojAssemblyReference.cache
+C:\Users\Tony LI\Source\Repos\tonyDemo\StudentDataManagementSystem\SubLib\obj\Debug\SubLib.csproj.CoreCompileInputs.cache
+C:\Users\Tony LI\Source\Repos\tonyDemo\StudentDataManagementSystem\SubLib\obj\Debug\SubLib.dll
+C:\Users\Tony LI\Source\Repos\tonyDemo\StudentDataManagementSystem\SubLib\obj\Debug\SubLib.pdb
+C:\Users\Tony LI\Source\Repos\tonyDemo\StudentDataManagementSystem\SubLib\bin\Debug\SubLib.dll.config
